@@ -1,13 +1,13 @@
 const objParaArray = {
-  nome: "maria",
-  profissao: "Desenvolvedora de Software",
+  nome: "Fabrício",
+  profissao: "Desenvolvedor de Software",
 };
 
 const objetoParaArray = (objeto) => [
   Object.entries(objeto),
   
 ];
-// console.log(objetoParaArray(objParaArray));
 
-console.log(objetoParaArray( { nome: "maria",
-profissao: "Desenvolvedora de Software"}));
+
+console.log(objetoParaArray({nome: "Fabrício", profissao: "Desenvolvedor de Software",
+})); console.log("teste")
