@@ -12,4 +12,4 @@ const blanks = (var1) => {
   return count + 1;
 };
 
-console.log(blanks("teste unitario e teste ternario "));
+console.log(blanks("string aleatoria "));
