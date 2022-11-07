@@ -1,2 +1,2 @@
 #  learning front-end
-#repository of my web development learn journey
+repository of my web development learn journey
