@@ -1,2 +1,2 @@
-# js-basics
-Javascript exercicies as a way to reinforce the learning process of JavaScript.
+#  learning front-end
+#repository of my web development learn journey
