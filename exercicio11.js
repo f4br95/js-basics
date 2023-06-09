@@ -11,4 +11,4 @@ const deletaAtributo = (obj1, propriedade) => {
 console.log(deletaAtributo(objeto1, "nome"));
 console.log(objeto1);
 
-const foo = [1, 2, 3];
+
